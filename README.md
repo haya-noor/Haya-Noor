@@ -32,8 +32,8 @@ I'm Haya Noor.
 
 📈 Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ali-izhar&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haya-Noor&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-izhar&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haya-Noor&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ali-izhar&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Haya-Noor&theme=dracula&hide_border=true)
