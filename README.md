@@ -32,7 +32,6 @@ I'm Haya Noor.
 
 📈 Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haya-Noor&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haya-Noor&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
