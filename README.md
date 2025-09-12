@@ -29,9 +29,12 @@ I'm Haya Noor.
 
 ---
 
-📈 Stats 
+📈 Stats  
 
+📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haya-Noor&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Haya-Noor&theme=dracula&hide_border=true)
+![GitHub Contribution Graph](https://ghchart.rshah.org/Haya-Noor)
+
+
