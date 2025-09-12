@@ -1,8 +1,6 @@
 # Hello!
 
 I'm Haya Noor.
-- 👨‍🎓 Student of Computer Science at GIKI.
-- 📚 (anticipated) Concentration in Artificial Intelligence.
 
 [![Mail Badge](https://img.shields.io/badge/-hayanoor.skt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hayanoor.skt@gmail.com)](mailto:hayanoor.skt@gmail.com)
 <a href="https://www.linkedin.com/in/haya-noor/">
