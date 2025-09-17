@@ -7,10 +7,6 @@ I'm Haya Noor.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
----
-
-
----
 
 📈 Stats  
 
